@@ -17,7 +17,7 @@ q[Puny god];
 
 =head1 DESCRIPTION
 
-Characters and dinosaurs from the LEGO Marvel's Avenegers game as gleaned from
+Characters from the LEGO Marvel's Avengers game as gleaned from
 the L<http://www.gamefaqs.com/> walkthroughs.
 
 I<Puny god>
